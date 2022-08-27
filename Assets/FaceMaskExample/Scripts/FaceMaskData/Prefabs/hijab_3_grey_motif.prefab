@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1843504508203936}
+  m_IsPrefabAsset: 1
+--- !u!1 &1843504508203936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4900590503096208}
+  - component: {fileID: 114570846781791896}
+  m_Layer: 0
+  m_Name: hijab_3_grey_motif
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4900590503096208
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843504508203936}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 239.66675, y: 49.91185, z: -0.15020752}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114570846781791896
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843504508203936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cea3acc41ae7e1498ab5b898cf0043c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _image: {fileID: 2800000, guid: a1eb2407816a277499190f44ccb0a6c2, type: 3}
+  isDynamicMode: 0
+  enableColorCorrection: 0
+  _faceRect:
+    serializedVersion: 2
+    x: 78
+    y: 57.4
+    width: 103.8
+    height: 74.5
+  _landmarkPoints:
+  - {x: 89, y: 81}
+  - {x: 88, y: 89}
+  - {x: 88, y: 98}
+  - {x: 92, y: 107}
+  - {x: 97, y: 116}
+  - {x: 103, y: 121}
+  - {x: 111, y: 126}
+  - {x: 119, y: 130}
+  - {x: 126, y: 131}
+  - {x: 137, y: 129}
+  - {x: 148, y: 126}
+  - {x: 156, y: 122}
+  - {x: 162, y: 115}
+  - {x: 165, y: 107}
+  - {x: 167, y: 98}
+  - {x: 169, y: 89}
+  - {x: 168, y: 81}
+  - {x: 92, y: 68}
+  - {x: 97, y: 64}
+  - {x: 104, y: 64}
+  - {x: 111, y: 65}
+  - {x: 118, y: 68}
+  - {x: 132, y: 67}
+  - {x: 140, y: 65}
+  - {x: 148, y: 63}
+  - {x: 157, y: 63}
+  - {x: 165, y: 67}
+  - {x: 125, y: 71}
+  - {x: 125, y: 77}
+  - {x: 125, y: 84}
+  - {x: 125, y: 90}
+  - {x: 114, y: 95}
+  - {x: 120, y: 97}
+  - {x: 125, y: 99}
+  - {x: 130, y: 97}
+  - {x: 137, y: 94}
+  - {x: 97, y: 78}
+  - {x: 103, y: 73}
+  - {x: 111, y: 74}
+  - {x: 116, y: 79}
+  - {x: 111, y: 82}
+  - {x: 104, y: 82}
+  - {x: 139, y: 77}
+  - {x: 146, y: 73}
+  - {x: 153, y: 73}
+  - {x: 157, y: 76}
+  - {x: 152, y: 81}
+  - {x: 144, y: 81}
+  - {x: 111, y: 108}
+  - {x: 116, y: 105}
+  - {x: 121, y: 104}
+  - {x: 125, y: 106}
+  - {x: 130, y: 105}
+  - {x: 136, y: 106}
+  - {x: 142, y: 108}
+  - {x: 137, y: 114}
+  - {x: 131, y: 115}
+  - {x: 125, y: 115}
+  - {x: 120, y: 115}
+  - {x: 116, y: 113}
+  - {x: 115, y: 108}
+  - {x: 120, y: 109}
+  - {x: 125, y: 110}
+  - {x: 131, y: 109}
+  - {x: 138, y: 109}
+  - {x: 131, y: 108}
+  - {x: 125, y: 110}
+  - {x: 121, y: 108}
